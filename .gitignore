@@ -220,14 +220,8 @@ models/
 # 2. CSV Handling
 *.csv
 
-# 3. Exceptions (The "Portfolio" Files)
-!results/final_scorecard.csv
-!results/benchmark_chart.png
-!results/faceoff_chart.png
+# 3. Exceptions (Allow EVERYTHING in the results folder)
+!results/
 
 # 4. Operating System Junk
 .DS_Store
-
-# 5. IDE Settings (Uncomment if you use these)
-.vscode/
-.idea/
