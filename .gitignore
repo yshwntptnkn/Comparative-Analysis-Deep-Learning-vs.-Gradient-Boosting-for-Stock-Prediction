@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ----------------------------------------------------------------------
+# CUSTOM RULES FOR STOCK PREDICTION PROJECT
+# ----------------------------------------------------------------------
+
+# 1. Ignore Data & Large Models
+data/
+models/
+*.keras
+*.h5
+*.json
+
+# 2. CSV Handling
+*.csv
+
+# 3. Exceptions (The "Portfolio" Files)
+!results/final_scorecard.csv
+!results/benchmark_chart.png
+!results/faceoff_chart.png
+
+# 4. Operating System Junk
+.DS_Store
+
+# 5. IDE Settings (Uncomment if you use these)
+.vscode/
+.idea/
