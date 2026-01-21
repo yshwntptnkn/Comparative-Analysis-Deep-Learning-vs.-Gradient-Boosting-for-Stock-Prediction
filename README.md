@@ -104,11 +104,11 @@ XGBoost is mathematically optimized for **tabular data** (structured rows and co
 ## 📂 Project Structure
 ```
 Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction/
-├── src/                    # Source Code (The "Brain")
-│   ├── data_loader.py      # yfinance data fetching
-│   ├── preprocessing.py    # Feature engineering (RSI, EMA, Lags)
-│   ├── model_builder.py    # LSTM Architecture definition
-│   └── evaluation.py       # Metrics & Plotting logic
+├── src/                    
+│   ├── data_loader.py      
+│   ├── preprocessing.py    
+│   ├── model_builder.py    
+│   └── evaluation.py       
 │
 ├── main.py                 # Runner for LSTM training
 ├── train_xgboost.py        # Runner for XGBoost training
