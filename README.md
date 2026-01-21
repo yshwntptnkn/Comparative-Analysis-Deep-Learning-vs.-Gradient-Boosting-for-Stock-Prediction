@@ -103,7 +103,7 @@ XGBoost is mathematically optimized for **tabular data** (structured rows and co
 
 ## 📂 Project Structure
 ```
-Stock-Prediction-ITC/
+Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction/
 ├── src/                    # Source Code (The "Brain")
 │   ├── data_loader.py      # yfinance data fetching
 │   ├── preprocessing.py    # Feature engineering (RSI, EMA, Lags)
