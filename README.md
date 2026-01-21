@@ -124,7 +124,7 @@ Stock-Prediction-ITC/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction.git](https://github.com/YOUR_USERNAME/Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction.git)
+   git clone https://github.com/YOUR_USERNAME/Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction.git
    cd Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction
    ```
 2. Install dependancies
@@ -141,15 +141,30 @@ This project uses a modular MLOps structure. You can reproduce the results by ru
   ```
 2. **Train the Machine Learning Model (XGBoost)**
    Trains an XGBRegressor on technical indicators and lagged returns.
-   ```
+   ```bash
    python train_xgboost.py --ticker ITC.NS
    ```
 
 3. **Run the Benchmark**
   Generates the comparison chart and scorecard found in the ```results/``` folder.
-  ```
+  ```bash
   python benchmark.py
   ```
+
+---
+
+## 🔮 Future Work
+This study established a baseline comparison between Deep Learning and Gradient Boosting for daily stock data. Future iterations of this research could explore:
+
+* **Transformer Architectures:** Replacing the LSTM with a **Temporal Fusion Transformer (TFT)** to better handle long-term dependencies and interpretability.
+* **Sentiment Analysis:** Integrating NLP features from financial news (e.g., using FinBERT) to capture market sentiment, which neither model currently accounts for.
+* **High-Frequency Data:** Testing if LSTM performance improves with intraday (1-minute) data, where patterns may be more sequential and less noisy than daily closes.
+
+---
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
 ---
 
 ## ⚠️ Disclaimer
