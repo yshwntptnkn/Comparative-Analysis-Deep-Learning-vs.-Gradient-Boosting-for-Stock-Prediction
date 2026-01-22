@@ -190,4 +190,8 @@ Yashwant Patnaikuni
 📧 yashwantpatnaikuni@gmail.com <br>
 ℹ️ www.linkedin.com/in/yashwant-patnaikuni
 
+Nirup Koyilada
+
+📧nirupkoyilada@gmail.com <br>
+ℹ️www.linkedin.com/in/nirup-koyilada
 ---
