@@ -192,6 +192,6 @@ Yashwant Patnaikuni
 
 Nirup Koyilada
 
-📧nirupkoyilada@gmail.com <br>
-ℹ️www.linkedin.com/in/nirup-koyilada
+📧 nirupkoyilada@gmail.com <br>
+ℹ️ https://www.linkedin.com/in/nirup-koyilada
 ---
