@@ -187,14 +187,14 @@ This project is for **educational and research purposes only**. The models devel
 
 Yashwant Patnaikuni
 
-📧 yashwantpatnaikuni@gmail.com <br>
+📧 [E-mail](yashwantpatnaikuni@gmail.com) <br>
 ℹ️ [LinkedIn](https://www.linkedin.com/in/yashwant-patnaikuni)
 
 ---
 
 Nirup Koyilada
 
-📧 nirupkoyilada@gmail.com <br>
+📧 [E-mail](nirupkoyilada@gmail.com) <br>
 ℹ️ [LinkedIn](https://www.linkedin.com/in/nirup-koyilada)
 
 ---
