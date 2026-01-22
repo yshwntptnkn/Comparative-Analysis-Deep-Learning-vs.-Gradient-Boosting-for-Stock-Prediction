@@ -29,7 +29,7 @@ Models were evaluated on a 1-year unseen test set (Jan 2025 - Jan 2026).
 | **XGBoost** | **4.57** | **2.86** | **0.71%** | **0.9389** |
 | Attention LSTM | 24.22 | 18.27 | 4.64% | -0.8773 |
 
-![Model Comparison Chart](results/benchmark_chart.png)
+![Model Comparison Chart](results/results.jpeg)
 
 ### 🧠 Technical Conclusion: Why did Deep Learning Fail?
 Despite the architectural complexity of the Attention-Based LSTM, the XGBoost model outperformed it significantly. This highlights a critical lesson in Financial ML:
