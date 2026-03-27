@@ -124,7 +124,7 @@ Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction.git
+   git clone https://github.com/yshwntptnkn/Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction.git
    cd Comparative-Analysis-Deep-Learning-vs.-Gradient-Boosting-for-Stock-Prediction
    ```
 2. Install dependancies
